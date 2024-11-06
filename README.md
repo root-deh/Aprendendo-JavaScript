@@ -1,31 +1,52 @@
 # Aprendendo JavaScript - Estudo Autodidata
 
-Este repositório tem como objetivo servir como um **guia de estudos** para quem deseja aprender **JavaScript** de forma **autodidata**. A ideia é seguir tutoriais, desafios e materiais disponíveis na internet para adquirir conhecimento prático e teórico, com foco em conceitos fundamentais e avançados da linguagem.
+Este repositório documenta meu aprendizado em **JavaScript**, desde os conceitos fundamentais até a aplicação prática em projetos. A ideia é registrar minha evolução ao longo do tempo, explorar conceitos intermediários e avançados, e consolidar o conhecimento com **exercícios práticos** e **desafios**.
 
-## Objetivo do Repositório
+## Objetivo
 
-O principal objetivo deste repositório é documentar o processo de aprendizado de JavaScript por meio de **exercícios práticos**, **desafios** e **recursos** encontrados na internet. O foco é em:
-
-- Aprender JavaScript desde os **conceitos básicos** até tópicos mais **avançados**.
-- Aplicar o conhecimento adquirido em **exercícios práticos** e **projetos pequenos**.
-- **Documentar o aprendizado** por meio de código, explicações e links úteis.
-
-Este repositório não é apenas para armazenar código, mas também para refletir o processo de aprendizagem ao longo do tempo, com o intuito de compartilhar o meu progresso e reforçar o conhecimento adquirido.
-
-## Como Funciona?
-
-1. **Início com Conceitos Básicos**: O aprendizado começa com os **fundamentos da linguagem** (variáveis, tipos de dados, operadores, etc.), seguindo tutoriais e criando pequenos exercícios.
-2. **Desafios Práticos**: À medida que os conceitos são aprendidos, você criará desafios próprios ou adaptará problemas encontrados em tutoriais.
-3. **Progresso Gradual**: A cada novo conceito aprendido, será documentado um novo arquivo com soluções, explicações e links para recursos adicionais.
-4. **Consistência no Estudo**: O objetivo é manter uma rotina de estudo constante, com foco em aplicar o que foi aprendido através de exercícios práticos.
+O principal objetivo deste repositório é organizar meu estudo de **JavaScript**, compartilhando meu progresso e aprendizados com a comunidade. Este repositório não é apenas para armazenar código, mas também para refletir o processo de aprendizado autodidata. A cada novo conceito aprendido, vou documentar soluções, explicações e links úteis.
 
 ## Estrutura do Repositório
 
-- **/desafios**: Contém os desafios e exercícios práticos de cada tópico estudado.
-- **/recursos**: Links para tutoriais, livros, artigos e vídeos relacionados ao aprendizado de JavaScript.
-- **README.md**: Este arquivo, que documenta os objetivos do repositório e o progresso dos estudos.
+- **/fundamentos**: Contém os conceitos básicos que estou aprendendo, como variáveis, tipos de dados, operadores, etc.
+- **/desafios**: Exercícios e desafios práticos para consolidar os conceitos.
+- **/projetos**: Pequenos projetos práticos para aplicar o que foi aprendido.
+- **/recursos**: Links para tutoriais, livros, artigos e vídeos que estou utilizando para complementar o estudo.
 
-## Como Contribuir?
+## Como Funciona?
+
+1. **Início com Fundamentos**: O aprendizado começa com os conceitos básicos de JavaScript (variáveis, tipos de dados, operadores, etc.), seguidos de exercícios práticos.
+2. **Desafios e Exercícios**: À medida que os conceitos são assimilados, crio desafios e exercícios para praticar e fixar o conhecimento.
+3. **Projetos Práticos**: A cada novo conceito, faço pequenos projetos práticos para aplicar o aprendizado de forma mais avançada.
+4. **Documentação do Aprendizado**: Tudo o que for aprendido será documentado no repositório com o código, explicações e links úteis.
+
+## Tópicos de Estudo
+
+### Fundamentos
+Aqui ficam os conceitos fundamentais do JavaScript que estou aprendendo:
+- [Variáveis](fundamentos/variaveis.js)
+- [Tipos de Dados](fundamentos/tipos-de-dados.js)
+- [Operadores](fundamentos/operadores.js)
+- [Condicionais](fundamentos/condicionais.js)
+- [Loops](fundamentos/loops.js)
+- [Funções](fundamentos/funcoes.js)
+
+### Desafios
+Exercícios e desafios que estou resolvendo para consolidar o aprendizado:
+- [Desafio 1](desafios/desafio1.js): Exercício de operadores.
+- [Desafio 2](desafios/desafio2.js): Manipulação de arrays.
+
+### Projetos Práticos
+Pequenos projetos práticos para aplicar o que aprendi:
+- [Contador](projetos/contador.js)
+- [Lista de Tarefas](projetos/lista-de-tarefas.js)
+
+### Recursos
+Materiais de apoio, como links úteis, vídeos e livros:
+- [Links e Artigos](recursos/links.md)
+- [Livros e Vídeos](recursos/livros-e-videos.md)
+
+## Como Contribuir
 
 Este repositório é uma **experiência de aprendizado pessoal**, mas se você tem sugestões de desafios, recursos ou melhorias, fique à vontade para criar um **pull request**.
 
